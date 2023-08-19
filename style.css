@@ -1,0 +1,86 @@
+h1{
+    font-size: 70px;
+}
+h2{
+    font-size:70px;
+}
+.colortext{
+    color:red;
+    }
+.hlaf-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left:2%;
+    margin-top:100px ;
+    
+   }
+.hlaf-width img{
+    width: 700px;    
+}
+.banner{
+    background-image: url(personal-website/header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 700px;
+    padding-bottom: 250px;
+    
+}
+
+#text{
+   text-align: center;
+   margin-top: 250px; 
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding:10px 20px;
+    border-radius: 5%;
+    color:white;
+    font-weight: 700px;
+
+}
+.biography{
+    margin-top: 12%;
+    margin-block-end: 10%;
+    background-image:url(personal-website/biography-bg.png);
+    background-repeat: no-repeat;
+    
+    
+}
+.width{
+    width: 27%;
+    float: left;
+    padding: 3%;
+   
+   }
+.width img{
+    width: 400px;
+    margin-top: 40%;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+.work{
+    background-image: url(personal-website/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+#work-{
+   text-align: center;}
+.Letest{
+    text-align: center;
+    background-image: url(personal-website/footer-bg.png);
+    background-repeat: no-repeat;
+}
+.boton{
+    font-size: 50px;
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding:40px 20px;
+    border-radius: 5%;
+    color:white;
+    font-weight: 700px;
+   
+   
+}
